@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "856384299226",
+    "project_id": "voyage-94fde",
+    "storage_bucket": "voyage-94fde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856384299226:android:2d25a9f3e43dfd5e2cc5e3",
+        "android_client_info": {
+          "package_name": "com.example.test_ikram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856384299226-0hr2ua2bat11ql72arjrfomd67iuhs7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLG4SVv1gbzlcSe1xxiEehJQic4o_e-TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856384299226-0hr2ua2bat11ql72arjrfomd67iuhs7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
